@@ -91,7 +91,7 @@ public class EqualsMethodLabTest {
     }
     /**
      * Whatever the output that a toString contains, if an object is created with the values 1, 2, true it should
-     * contain all of those values.   
+     * contain all of those values.    
      */
     @Test
     public void toStringTest2(){
